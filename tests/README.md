@@ -1,2 +1,3 @@
 # tests
-This is the folder where we keep our test sub-folders
+This is the folder where we bundle our tests according to type.
+So far we have unit, and feature test types.
